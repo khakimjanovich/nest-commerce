@@ -35,7 +35,7 @@
     - Sql database: Sequelize, Postgres
     - Swagger docs
     - Passport auth [local stragtegy]
-    - RBAC
+    - RBAC 
 ```
 ## Installation
 
